@@ -1,4 +1,4 @@
-# <h1>Code Fuison</h1>
+# <h1>Code Fusion</h1>
 
 A full-stack project for managing coding projects, featuring user authentication, project CRUD operations, and a rich user interface.
 
