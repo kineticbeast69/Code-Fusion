@@ -60,4 +60,4 @@ Implement a dark/light mode toggle.
 ![alt text](project-images/loginPage.png)
 ![alt text](project-images/codeScreen.png)
 ![alt text](<project-images/adding the project.png>)
-![alt text](<project-images/Deleting the project.png>)
+![alt text](<project-images/deleting the project.png>)
