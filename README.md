@@ -56,8 +56,17 @@ Implement a dark/light mode toggle.
 
 # Project Images
 
+Sign-up Page UI
 ![alt text](project-images/signup.png)
+
+Login Page UI
 ![alt text](project-images/loginPage.png)
+
+Code Screen Page UI
 ![alt text](project-images/codeScreen.png)
+
+Adding the project UI
 ![alt text](<project-images/adding the project.png>)
+
+Deleting the Project Project UI
 ![alt text](<project-images/deleting the project.png>)
